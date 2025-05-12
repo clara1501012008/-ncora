@@ -1,0 +1,17 @@
+    h1 {
+    text-align: center;
+    border-color: aqua;
+    font-size: medium;
+    border-width: 2cm;
+    border-style: hidden;
+    border-style: groove;
+    }
+
+    h2{text-align: center;
+    color: rgb(255, 0, 0);}
+
+    h3{text-align: center;
+        color: rgb(255, 0, 0);}
+
+        h4{text-align: center;
+            color: rgb(255, 0, 0);}
